@@ -1,0 +1,75 @@
+/*******************重置html样式*******************/
+html,body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,input,p,blockquote,th,td,form{margin:0;padding:0;}
+ol,ul,li,dd,dt,dl{ list-style:none;}
+address,caption,cite,code,dfn,th,var{font-style:normal;font-weight:normal;}
+img{border:0;}
+caption,th{text-align:left;}
+table{border-collapse:collapse;empty-cells:show;}
+input,select,textarea{font-size:12px;}
+textarea {}
+body{font-size:12px;}
+/*******************可重用样式*******************/
+/*-----显示模式---*/
+.none{display:none;}
+.block{display:block;}
+.inline{display:inline;}
+.hidden{overflow:hidden;}
+/*-----浮动----*/
+.l{float:left;}
+.r{float:right;}
+.clearfix:after{content:"."; display:block; height:0; clear:both;visibility:hidden;}
+*html .clearfix{height:1%;}
+*+html .clearfix{height:1%;}
+/*-----定位----*/
+.pos-rel{position:relative;}
+.pos-abs{position:absolute;}
+/*-----对齐方式----*/
+.a-c{text-align:center;margin:0 auto;}
+.a-l{text-align:left;}
+.a-r{text-align:right;}
+/*-----margin----*/
+.mar-t6{margin-top:6px;}
+.mar-t-6{margin-top:6px;}
+.mar-r-10{margin-right:10px;}
+.mar-t-10{margin-top:10px;}
+.mar-b-10{margin-bottom:10px;}
+.mar-b-6{margin-bottom:6px;}
+.mar-t-40{margin-top:40px;}
+.mar-t-b-10{margin:10px 0px;}
+.mar-l-10{margin-left:10px;}
+/*-----padding----*/
+.pad10{padding:0 10px;}
+.pad-10{padding:10px;}
+/*-----font size----*/
+.font-12{font-size:12px;}
+.font-14{font-size:14px;}
+.bold{font-weight:bold;}
+/*-------color------*/
+.red{color:#b70a03;}
+.gray{color:#999999;}
+.blue,a.blue{color:#002bb8;}
+.orange{color:#FF9900 !important;}
+.gray{color:#666;}
+.white{color:#FFFFFF;}
+/*------border-----*/
+.bor-no{border:none !important;}
+.bor-gray{border:1px #CCCCCC solid;}
+/*-------a------*/
+a{color:#666; text-decoration:none;}
+a:hover{color:#0350A3 !important;text-decoration:underline;}
+
+.a1{color:#0350A3 !important;text-decoration:underline !important;}
+.a1:hover{color:#09F !important;}
+/*------button-----*/
+.btn{border:1px solid #BDBDBB;background-color:#E6E6E4;padding:2px 0px;}
+/*-----块容器----*/
+.block-1{
+	width:980px;overflow:hidden;
+	margin:0px auto;
+}
+.block-2{
+	width:1020px;overflow:hidden;
+	margin:0px auto;
+}
+/*-----图标集合----*/
+.icon{background:url(../images/icon.png) 0px 0px no-repeat;
