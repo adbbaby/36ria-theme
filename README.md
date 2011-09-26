@@ -1,7 +1,8 @@
-RIAÖ®¼ÒÄ£°å
+RIAä¹‹å®¶æ¨¡æ¿
 =============
-ÖĞ¹úÎªÊı²»¶àµÄ²ÉÓÃhtml5´î½¨µÄwordpressÄ£°å£¬»¶Ó­ÏÂÔØÊÔÓÃ£¬»¶Ó­Ïò×÷ÕßÃÇ·´À¡bug¡£
-(PS:Ä¿Ç°¸ÃÄ£°åÃ»×öIE¼æÈİ£¬ÈÕºó»á×öÏàÓ¦ÓÅ»¯¡£)
- * ×÷Õß£º[ËÕºÓ](http://www.36ria.com/author/spikelinyu)/[ÌìºÓ](http://www.36ria.com/author/xthsky)/[·ÉÂÌ](http://www.36ria.com/author/greenerieshu)/[Ã÷ºÓ](http://www.36ria.com/author/minghe)
- * Éè¼Æ£º[Ã÷ºÓ](http://www.36ria.com/author/minghe) 
- * °æ±¾: 3.0
+ä¸­å›½ä¸ºæ•°ä¸å¤šçš„é‡‡ç”¨html5æ­å»ºçš„wordpressæ¨¡æ¿ï¼Œæ¬¢è¿ä¸‹è½½è¯•ç”¨ï¼Œæ¬¢è¿å‘ä½œè€…ä»¬åé¦ˆbugã€‚
+(PS:ç›®å‰è¯¥æ¨¡æ¿æ²¡åšIEå…¼å®¹ï¼Œæ—¥åä¼šåšç›¸åº”ä¼˜åŒ–ã€‚)
+ * ä½œè€…ï¼š[è‹æ²³](http://www.36ria.com/author/spikelinyu)/[å¤©æ²³](http://www.36ria.com/author/xthsky)/[é£ç»¿](http://www.36ria.com/author/greenerieshu)/[æ˜æ²³](http://www.36ria.com/author/minghe)
+ * é¢„è§ˆï¼š[RIAä¹‹å®¶](http://www/36ria.com)
+ * è®¾è®¡ï¼š[æ˜æ²³](http://www.36ria.com/author/minghe) 
+ * ç‰ˆæœ¬: 3.0
